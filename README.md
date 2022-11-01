@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 <img align=beside width=190 src="https://github.com/Yhyyzcgl/Yhyyzcgl/blob/main/indir.jpg" />
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yhyyzcgl&show_icons=true&theme=radical)
+
+
 
 
