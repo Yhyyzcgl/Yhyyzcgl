@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align=right height=150 width=150 src="https://github.com/Yhyyzcgl/Yhyyzcgl/blob/main/indir.jpg" />
+<img align=right height=400 width=400 src="https://github.com/Yhyyzcgl/Yhyyzcgl/blob/main/indir.jpg" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yhyyzcgl&show_icons=true&theme=radical)
