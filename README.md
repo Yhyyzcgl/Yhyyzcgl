@@ -1,12 +1,14 @@
 
 
+<img align=right width=300 height=300 src="https://github.com/Yhyyzcgl/Yhyyzcgl/blob/main/Lionel%20Messi%20GIF%20by%20FC%20Barcelona%20-%20Find%20%26%20Share%20on%20GIPHY.gif" />
+
 
 - 🔭 I’m currently working on coding and testing
 - 👯 Ask me about Java, PostgreSQL , Lambda, HTML-CSS, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber , Postman...
 - 💬 Ask me about yhyyzcgl@gmail.com
 
 
-<img align=right width=300 height=300 src="https://github.com/Yhyyzcgl/Yhyyzcgl/blob/main/Lionel%20Messi%20GIF%20by%20FC%20Barcelona%20-%20Find%20%26%20Share%20on%20GIPHY.gif" />
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yhyyzcgl&show_icons=true&theme=radical)
