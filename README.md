@@ -6,8 +6,8 @@
 - 👯 Ask me about Java, PostgreSQL , Lambda, HTML-CSS, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber , Postman...
 - 💬 Ask me about yhyyzcgl@gmail.com
 <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yhyyzcgl&theme=solarized-dark&show_icons=true&count_private=true)"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yhyyzcgl&layout=compact&langs_count=8&theme=solarized-dark"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yhyyzcgl&theme=solarized-dark&show_icons=true&count_private=true)"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yhyyzcgl&layout=compact&langs_count=8&theme=solarized-dark"/>
 </p>
  :computer:Tech Stack
 <p align="left">
