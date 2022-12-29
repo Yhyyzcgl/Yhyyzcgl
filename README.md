@@ -1,9 +1,13 @@
 
 <h1 align="center">Hi, I'm Yahya Yazıcıoglu<h1>
-<h3 align="center">Full Stack Automation Engineer</h3>
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Software+Test+Engineer.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+👩🏻‍💻;) 
   
-  - 🔭 I’m currently working on coding and testing
-- 👯 Ask me about Java, PostgreSQL , Lambda, HTML-CSS, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber , Postman...
+<h3>About me: </h3> 
+  I've been a QA Automation Engineer for about a year.I have worked extensively with web services, APIs, and
+automated processes. I have a lot of experience with Cucumber, JUnit, Selenium WebDriver, and Java  service implementations. I gain new knowledge quickly and am willing to use new tools and technologies to increase my versatility. My motivation to progress in this field is quite high. I can quickly adapt to teamwork. I am
+currently learning JavaScript, Nodejs, and Appium.
+  
 - 💬 Ask me about yhyyzcgl@gmail.com
 <p align="center">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yhyyzcgl&theme=solarized-dark&show_icons=true&count_private=true)"/>
