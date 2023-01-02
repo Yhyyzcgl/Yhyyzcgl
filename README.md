@@ -13,38 +13,49 @@ currently learning JavaScript, Nodejs, and Appium.
 <a href="https://www.linkedin.com/in/yhyyzcgl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yhyyzcgl" height="30" width="40" /></a>
 </p>
  
+ 
+ <h2 align="left">Programming Languages and Automation Tools:</h2>
+<p align="left">
+<!-- Java -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="55" height="55"/> </a> 
+<!-- Selenium -->
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+<!-- Cucumber -->
+<a href="https://github.com/cucumber" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" alt="cucumber" width="40" height="40"/> </a>
+<!-- Maven -->
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.xtremepc.co.kr/wp-content/uploads/2020/04/Apache-Maven.jpg?fit=1200%2C1200&ssl=1" alt="maven" width="40" height="40"/> </a> 
+<!-- Appium -->
+<a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="appium" width="45" height="42"/></a>
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a> 
+<!-- Cypress -->
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://filiphric.com/_nuxt/img/cypress.b3fa0b5.png" alt="cypress" width="40" height="40"/> </a>
+</p> 
+
+<h2 align="left">Apps:</h2>
+<p align="left">
+<!-- IntelliJ -->
+<a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a>
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgresql" width="40" height="40"/> </a>  
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman" width="40" height="40"/> </a>
+<!-- Appium Inspector -->
+<a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium-inspector/main/docs/icon.png" alt="appiumInspector" width="40" height="40"/> </a>
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
+<!-- Jira -->
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
+<!-- XRAY -->
+<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a>
+
+ 
+ 
 <p align="center">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yhyyzcgl&theme=solarized-dark&show_icons=true&count_private=true)"/>
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yhyyzcgl&layout=compact&langs_count=8&theme=solarized-dark"/>
 </p>
- :computer:Tech Stack
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-  <a href="https://www.maven.com" target="_blank" rel="noreferrer"> <img src="https://koraypeker.com/wp-content/uploads/2018/06/1_xsrKVt69q3JsZzLD-ldekQ.jpeg" alt="maven" width="100" height="40"/> </a>
-<a href="https://www.html5.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50" height="50"/> </a>
-<a href="https://www.css3.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.selenium.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="Selenium" width="50" height="50"/> </a>
-<a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m3cQd-M2Gq5QXSik9qJSHGDBW3MvBoWFyA&usqp=CAU" alt="sql" width="50" height="50"/> </a>
-</p>
-<hr/>
- :computer:Tools
-<p align="left >
-<a href="https://www.vscode.com" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" alt="VScode" width="40" height="40"/> </a>
-<a href="https://www.intelj.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQak-N8W03mK25slV1lwM80i0y1obRPPJOaLA&usqp=CAU" alt="intelj" width="80" height="40"/> </a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.semihduran.com/wp-content/uploads/2020/12/postman.jpg" alt="Postman" width="60" height="40"/> </a>
-<a href="https://www.jira.com" target="_blank" rel="noreferrer"> <img src="https://yardimmasasi.atilim.edu.tr/images/atlassian-jira-logo-large.png" alt="Jira" width="80" height="40"/> </a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://media.bitdegree.org/storage/media/images/2018/11/jenkins-interview-questions-logo.png" alt="Jmeter" width="50" height="50"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-
-
-
-
-
-
-
-
-
+ 
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
 
