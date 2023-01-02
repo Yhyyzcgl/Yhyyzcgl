@@ -3,7 +3,7 @@
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Software+Test+Engineer.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+👩🏻‍💻;) 
   
-<h3>About me: </h3> 
+ 
   I've been a QA Automation Engineer for about a year.I have worked extensively with web services, APIs, and
 automated processes. I have a lot of experience with Cucumber, JUnit, Selenium WebDriver, and Java  service implementations. I gain new knowledge quickly and am willing to use new tools and technologies to increase my versatility. My motivation to progress in this field is quite high. I can quickly adapt to teamwork. I am
 currently learning JavaScript, Nodejs, and Appium.
