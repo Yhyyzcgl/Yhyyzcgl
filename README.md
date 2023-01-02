@@ -8,7 +8,11 @@
 automated processes. I have a lot of experience with Cucumber, JUnit, Selenium WebDriver, and Java  service implementations. I gain new knowledge quickly and am willing to use new tools and technologies to increase my versatility. My motivation to progress in this field is quite high. I can quickly adapt to teamwork. I am
 currently learning JavaScript, Nodejs, and Appium.
   
-- 💬 Ask me about yhyyzcgl@gmail.com
+<h2 align="left">You can contact me here:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/yhyyzcgl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yhyyzcgl" height="30" width="40" /></a>
+</p>
+ 
 <p align="center">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yhyyzcgl&theme=solarized-dark&show_icons=true&count_private=true)"/>
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yhyyzcgl&layout=compact&langs_count=8&theme=solarized-dark"/>
