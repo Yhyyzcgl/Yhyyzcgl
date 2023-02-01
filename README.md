@@ -6,7 +6,7 @@
  <h3>About me: </h3> 
   I've been a QA Automation Engineer for about a year.I have worked extensively with web services, APIs, and
 automated processes. I have a lot of experience with Cucumber, JUnit, Selenium WebDriver, and Java  service implementations. I gain new knowledge quickly and am willing to use new tools and technologies to increase my versatility. My motivation to progress in this field is quite high. I can quickly adapt to teamwork. I am
-currently learning JavaScript, Nodejs, and Appium.
+currently learning JavaScript,  and Appium.
   
 <h2 align="left">You can contact me here:</h2>
 <p align="left">
